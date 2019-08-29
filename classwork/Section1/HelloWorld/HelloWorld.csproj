@@ -5,9 +5,4 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="H:\KateVo_C#\Program.cs" Link="Program.cs" />
-    <Compile Include="H:\KateVo_C#\Program1.cs" Link="Program1.cs" />
-  </ItemGroup>
-
 </Project>
