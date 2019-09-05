@@ -61,7 +61,7 @@ Console.WriteLine("Released " + releaseYear);
 
             //2)printf
             //Console.WriteLine("Run time: {0}", runLength);
-            Console.WriteLine()
+            //Console.WriteLine ();
 
             //3) String formatting
             var formattedString = String.Format("Run time: {0}", runLength);
